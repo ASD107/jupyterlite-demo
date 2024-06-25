@@ -1,1 +1,2 @@
-# jupyterlite-demo         https://jupyter.org/try-jupyter/lab
+# jupyterlite-demo         https://jupyter.org/try-jupyter/lab 
+https://jupyterlite.github.io/demo
